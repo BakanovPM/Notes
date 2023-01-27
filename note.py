@@ -1,5 +1,3 @@
-
-
 class Note(object):
 
     def __init__(self, note_id, date, title, text):
